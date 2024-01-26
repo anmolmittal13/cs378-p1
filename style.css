@@ -30,7 +30,8 @@ img {
 
 .cursive {
     margin-top: 10px;
-    font-family: "Lucida Handwriting", cursive;
+    font-family: "Sofia";
+    font-size: large;
     color: green;
 }
 
